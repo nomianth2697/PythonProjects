@@ -1,3 +1,5 @@
+print ("welcone to calculater")
+
 print ("enter your first number")
 n1= input()
 print ("enter your second number")
